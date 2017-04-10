@@ -3,5 +3,6 @@ package com.company.users;
 /**
  * Created by Viachaslau.
  */
-public class AccountType {
+public enum  AccountType {
+ SAVING, UNREGISTER, CHEKING
 }

@@ -1,4 +1,4 @@
-package com.company.entities;
+package com.company.users;
 
 import com.company.users.AccountType;
 
